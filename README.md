@@ -1,6 +1,6 @@
-# Project Title
+# Archipark Store
 
-Remind user of people's birthday
+An e-commerce website for interior design products of an architectural company
 
 ## Built with
 
